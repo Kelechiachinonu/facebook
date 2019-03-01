@@ -1,0 +1,160 @@
+.container {
+    width: 70%;
+    height: 100%;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+    height: 550px;
+}
+
+header {
+    height: 80px;
+    background-color: #3b5998;
+
+}
+
+.row2 {
+    min-height: calc(100vh - 300px);
+    background-image: linear-gradient(whitesmoke, #dfe3ee);
+
+}
+
+footer {
+    height: 200px;
+    background-color: white;
+}
+
+.block {
+    display: block;
+}
+
+.row1 {
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+
+}
+.house {
+    display: flex;
+}
+.facebook  {
+    padding: 0;
+    margin: 0;
+    color:white;
+    font-size: 40px;
+    letter-spacing: -1px;
+    font-family:sans-serif;
+}
+
+.user_login {
+    margin-right: 15px;
+    color:white;
+    font-size: 13px;
+}
+
+.password {
+    margin-right: 15px;
+    color:white;
+    font-size: 13px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    color: darkblue;
+}
+
+.words {
+    color:white;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left:30px;
+    color: darkblue;
+    font-size: 20px;
+
+}
+
+.create{]
+    display:flex;
+
+
+}
+
+/*.container {*/
+    /*display: flex;*/
+/*}*/
+.namefield{
+    font-size: 20px;
+
+}
+.birthday {
+    font-family: Arial;
+    font-size: 18px;
+    padding-bottom: -10px;
+    margin-bottom: auto;
+}
+
+
+.dob {
+    font-size: 13px;
+    color: blue;
+    display:flex;
+    float: right;
+    padding-right:40px;
+    margin-top:2px;
+}
+
+.signupwords {
+    font-size: 12px;
+    color: white;
+}
+
+.button_signup {
+    background-color: #4CAF50;
+    /*border-radius: 10px;*/
+    border-radius: 15px 10px 10px 10px;
+    width:180px;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    /*display: inline-grid;*/
+    font-size: 16px;
+    margin-top: -50px;
+}
+
+.createpage {
+    color:gray;
+    background-color: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+.list {
+    text-align:left;
+    list-style: none;
+    float: left;
+    padding-left: 70px;
+    padding-top: 50px;
+
+}
+
+li {
+    display: inline;
+    font-size: 12px;
+    color: blue;
+
+}
+
+
+.copyright {
+    font-size: 12px;
+    color: grey;
+    font-family: Arial;
+
+
+
+}
